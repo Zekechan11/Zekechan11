@@ -1,27 +1,50 @@
-<h1 align="center">👋 Hey, I'm Zeke</h1>
+<!-- Banner -->
+<img width="1348" height="226" alt="Screenshot 2025-10-19 115623" src="https://github.com/user-attachments/assets/a188a31b-bee8-42f2-928d-8ac6c5705ac1" />
+
+<h2 align="center">Hey, I'm Zeke 👋</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Artist+%2F+Designer;Coding+is+my+canvas;Welcome+to+my+GitHub!"/>
+  <b>Front-End Developer | Artist | Designer | Gamer | Youtuber</b><br>
 </p>
+
+---
+
+### 📊 Profile Views
+<p align="center">
+  <img src="https://hits.sh/github.com/Zekechan11.svg?style=for-the-badge&label=Visitors&color=0E75B6&logo=github" alt="Visitor Counter" />
+</p>
+
 
 ---
 
 ### 🧩 About Me
-- 🎨 Artist & Developer  
-- 🖥️ Currently building cool stuff with **PHP**, **JS**, and **Vue**  
-- ⚡ Exploring **Flutter**, **Supabase**, and **Go**  
-- 💭 Motto: *“Code it clean. Design it bold.”*  
-- ☕ I run on creativity and caffeine  
+
+- 🎨 Passionate about **coding** and **design**
+- ⚙️ Currently working on startup projects.
+- 🌱 Currently learning **NextJs** and **TypeScript**
+- 📫 Reach me at: **pelayoezekiel96@gmail.com**
+- 🎯 Goal: *To build systems that blend creativity and clean logic.*
 
 ---
 
-### 🔧 Tech Stack
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,vue,flutter,go,html,css,tailwind,git,github,vscode,supabase" />
+  <a href="https://github.com/Zekechan11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/zeke_zetsu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:pelayoezekiel96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://www.facebook.com/ezekielangelo.pelayo/"/>
+  </a>
 </p>
 
----
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zekechan11&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekechan11&layout=compact&theme=tokyonight" height="150" />
@@ -30,24 +53,17 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔹 [**InventoryMARCH**](https://github.com/Zekechan11/InventoryMARCH) — Inventory management system (PHP)
-- 🔹 [**C-PrelimCoop**](https://github.com/Zekechan11/C-PrelimCoop) — College project on web development
-- 🔹 [**SAMPLEJS**](https://github.com/Zekechan11/SAMPLEJS) — Front-end experiments and JS demos
+- 🔹 [**InventoryMARCH**](https://github.com/Zekechan11/InventoryMARCH) — Inventory management system using PHP  
+- 🔹 [**C-PrelimCoop**](https://github.com/Zekechan11/C-PrelimCoop) — College web project with clean UI  
+- 🔹 [**SAMPLEJS**](https://github.com/Zekechan11/SAMPLEJS) — Front-end practice and JS components  
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Zekechan11" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+### 🎮 Fun Fact
+> When I’m not coding, I’m probably drawing, gaming, or designing something new 🎨
 
 ---
 
-### 🧮 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Zekechan11/count.svg" alt="Visitor Count"/>
+  <i>✨ Keep creating. Keep coding. ✨</i>
 </p>
-
-<p align="center">✨ “Keep creating, keep coding.” ✨</p>
